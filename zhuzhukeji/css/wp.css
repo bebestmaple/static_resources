@@ -8175,8 +8175,8 @@ body:not(.search-results) .twentysixteen .entry-summary {
 
 @font-face {
     font-family: 'FontAwesome';
-    src: url(./fontawesome-webfont.eot?v=4.7.0);
-    src: url('./fontawesome-webfont.eot?') format('embedded-opentype'), url(./fontawesome-webfont.woff2?v=4.7.0) format('woff2'), url(./fontawesome-webfont.woff?v=4.7.0) format('woff'), url(./fontawesome-webfont.ttf?v=4.7.0) format('truetype'), url('./fontawesome-webfont.svg?v=4.7.0') format('svg');
+    src: url(https://cdn.jsdelivr.net/gh/bebestmaple/static_resources@master/zhuzhukeji/css/fontawesome-webfont.eot?v=4.7.0);
+    src: url('https://cdn.jsdelivr.net/gh/bebestmaple/static_resources@master/zhuzhukeji/css/fontawesome-webfont.eot?') format('embedded-opentype'), url(./fontawesome-webfont.woff2?v=4.7.0) format('woff2'), url(https://cdn.jsdelivr.net/gh/bebestmaple/static_resources@master/zhuzhukeji/css/fontawesome-webfont.woff?v=4.7.0) format('woff'), url(./fontawesome-webfont.ttf?v=4.7.0) format('truetype'), url('https://cdn.jsdelivr.net/gh/bebestmaple/static_resources@master/zhuzhukeji/css/fontawesome-webfont.svg?v=4.7.0') format('svg');
     font-weight: 400;
     font-style: normal
 }

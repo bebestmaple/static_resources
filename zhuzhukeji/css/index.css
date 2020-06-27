@@ -620,7 +620,7 @@ body {
   .home .site-content .section-services .service-item {
     background-color: #fff !important;
     border-radius: 13px;
-    background: url('img/home_business_cooperation_bg.png') no-repeat;
+    background: url('https://cdn.jsdelivr.net/gh/bebestmaple/static_resources@master/zhuzhukeji/img/home_business_cooperation_bg.png') no-repeat;
     background-size: 104px 108px;
     background-position: top right;
   }
